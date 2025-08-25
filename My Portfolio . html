@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME PAGE </title>
+    <h1>Welcome To My Portfolio</h1>
+    <br>
+    <a href = "Education.html"> Education</a> 
+    <br>
+    <a href = "Experience. html"> Experience</a> 
+    <br>
+    <a href = "Project . html"> Projects</a> <br> 
+    <p> This is My Home Page . You Can Explour My Details Using The Links Above </p>
+    <h3> Thank You  </h3>
+
+</head>
+<body>
+    
+</body>
+</html>
